@@ -1,0 +1,4 @@
+insert into Previsao(id, diaSemana, tempMin, tempMax, umidade, descricao,data,latitude,longitude) values (1, 'Segunda-Feira', 21.0, 24.2, 80, 'Sol. Pancadas de chuva a qualquer hora do dia e da noite.',20200330,403452346,300009900);
+insert into Previsao(id, diaSemana, tempMin, tempMax, umidade, descricao,data,latitude,longitude) values (2, 'Terça-Feira', 23.2, 28.7, 77, 'Sol e aumento de nuvens de manhã e tarde. Pancadas de chuva à noite.',20200331,403452346,300009900);
+insert into Previsao(id, diaSemana, tempMin, tempMax, umidade, descricao,data,latitude,longitude) values (3, 'Quarta-Feira', 17.3, 23.0, 50, 'Frio de manhã. Nublado dia todo',20200401,403332346,300009904);
+insert into usuario(id,login,senha) values(1,'admin', 'admin');
